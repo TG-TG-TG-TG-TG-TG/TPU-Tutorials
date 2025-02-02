@@ -59,7 +59,7 @@ Create a new file called `downloadgcs.py`:
 nano downloadgcs.py
 ```
 
-Then paste the following Python script into the file:
+Then paste the following Python script into the file: (this script will download and tokenize a Fineweb 10B sample.)
 
 ```python
 import os
@@ -213,7 +213,7 @@ def main():
 
     # Load dataset
     try:
-        dataset = load_dataset("HuggingFaceFW/fineweb", "sample-100BT", split="train", streaming=True)
+        dataset = load_dataset("HuggingFaceFW/fineweb", "sample-10BT", split="train", streaming=True)
         print(f"\n{COLORS['okgreen']}✅ Dataset stream initialized{COLORS['endc']}")
     except Exception as e:
         print(f"\n{COLORS['fail']}❌ Dataset error: {e}{COLORS['endc']}")
