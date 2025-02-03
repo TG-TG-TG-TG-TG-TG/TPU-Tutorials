@@ -4,9 +4,9 @@ Welcome to **TPU-Tutorials**! This repository hosts a collection of tutorials an
 
 ## Tutorials
 
-- **TPU Access Quickstart**  
+- **TPU Access Options: Free and Budget-Friendly Ways to Get Started**  
   [TPU-access-Quickstart.md](TPU-access-Quickstart.md)  
-  _Get started quickly with TPU access and learn the basics of connecting and running your first TPU-based operations._
+  _Explore multiple free and low-cost TPU access options and learn the basics of connecting and running your first TPU-based operations._
 
 - **Training on TPU Pod with TensorFlow**  
   [Training-on-TPU-Pod-withTF.md](Training-on-TPU-Pod-withTF.md)  
