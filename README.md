@@ -4,6 +4,10 @@ Welcome to **TPU-Tutorials**! This repository hosts a collection of tutorials an
 
 ## Tutorials
 
+- **TPU Access Quickstart**  
+  [TPU-access-Quickstart.md](TPU-access-Quickstart.md)  
+  _Get started quickly with TPU access and learn the basics of connecting and running your first TPU-based operations._
+
 - **Training on TPU Pod with TensorFlow**  
   [Training-on-TPU-Pod-withTF.md](Training-on-TPU-Pod-withTF.md)  
   _Learn how to create a TPU Pod, set up a Cloud Storage bucket, download your dataset, test your TPU configuration, and run a full training script using TensorFlow._
