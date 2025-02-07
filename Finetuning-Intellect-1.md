@@ -91,7 +91,7 @@ from transformers import (
 from datasets import load_dataset
 
 # Configuration
-MODEL_NAME = "Qwen/Qwen2.5-0.5B-Instruct"
+MODEL_NAME = "PrimeIntellect/INTELLECT-1"
 DATASET_NAME = "TESTtm7873/ChatCat"  # Update this if necessary
 
 # Initialize tokenizer
