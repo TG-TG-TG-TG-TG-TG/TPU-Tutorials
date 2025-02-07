@@ -190,7 +190,7 @@ def train_fn(process_index):
     training_args = TrainingArguments(
         output_dir="./chatcat-finetuned",
         num_train_epochs=3,
-        per_device_train_batch_size=8,
+        per_device_train_batch_size=4,
         learning_rate=2e-5,
         logging_steps=100,
         save_steps=500,
