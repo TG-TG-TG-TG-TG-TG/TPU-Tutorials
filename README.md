@@ -12,6 +12,10 @@ Welcome to **TPU-Tutorials**! This repository hosts a collection of tutorials an
   [Training-on-TPU-Pod-withTF.md](Training-on-TPU-Pod-withTF.md)  
   _Learn how to create a TPU Pod, set up a Cloud Storage bucket, download your dataset, test your TPU configuration, and run a full training script using TensorFlow._
 
+- **Running Windsurf with a TPU Pod**  
+  [Running-Windsurf-with-TPU-POD.md](Running-Windsurf-with-TPU-POD.md)  
+  _Learn how to connect Windsurf to a TPU Pod, enabling the Cascade AI agent to leverage accelerated performance for its tasks._
+
 *(More tutorials will be added in the future.)*
 
 ## Getting Started
